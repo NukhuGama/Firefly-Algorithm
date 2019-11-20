@@ -1,6 +1,6 @@
-% KELOMPOK 8
-%   OLEH : 
-% Rangga Dwi Alamsyah (1301164030)
+
+% BY: 
+
 % Simiao Salvador da Gama (1301163617)
 
 clc; 
